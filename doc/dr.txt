@@ -1,0 +1,9 @@
+ex03
+
+1/1
+bin/README.md -> README.md
+  References: tres bien
+.gitignore ?
+format code
+
+
